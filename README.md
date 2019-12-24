@@ -1,2 +1,2 @@
 # Iprofile
-Build with node, express and mongodb
+Build with nodejs, express and mongodb
