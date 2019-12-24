@@ -2,3 +2,4 @@ node_modules
 .env
 .eslintrc
 seed.js
+package-lock.json
